@@ -1,1 +1,1 @@
-added contents to test.txt of master branch
+master and dev_1.0 must have the same contents
